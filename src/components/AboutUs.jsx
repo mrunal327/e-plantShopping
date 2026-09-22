@@ -1,10 +1,20 @@
 function AboutUs() {
   return (
-    <div>
-      <h1>About Us</h1>
+    <div className="about-us-container">
+      <h1>About Paradise Nursery</h1>
+
       <p>
-        We are a company dedicated to providing innovative and
-        user-friendly solutions to our customers.
+        Paradise Nursery is a plant shop dedicated to providing a wide
+        variety of healthy and beautiful plants for homes, offices, and
+        gardens. We make it easy for plant lovers to discover and purchase
+        plants online.
+      </p>
+
+      <p>
+        Our mission is to make plant shopping simple and accessible while
+        helping customers choose the right plants for their spaces. We offer
+        indoor plants, medicinal plants, hanging plants, and other varieties
+        along with a convenient shopping experience.
       </p>
     </div>
   );
